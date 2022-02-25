@@ -44,7 +44,7 @@
 
 :open_book:  <code><strong>*Writing code*</strong></code>
 
-:headphones: <code><strong>*Reading something interesting on the Internet*</strong></code> 
+:computer: <code><strong>*Reading something interesting on the Internet*</strong></code> 
 
 
 [<img title="Github" alt="sonmeniya| Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/sonmeniya)
