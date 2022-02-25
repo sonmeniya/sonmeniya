@@ -53,7 +53,7 @@
 
 <hr>
 <p align="center">
-  <img title="|Customized by sonmeniya|" src="https://github.com/sonmeniya/sonmeniya/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img title="|Customized by daramirra|" src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
