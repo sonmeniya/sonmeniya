@@ -1,10 +1,3 @@
-<!--
-- ⚡⚡⚡  Уважаемые посетители! 
-Если вам что-то приглянулось в моем оформлении и вы решили это что-то позаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение.
-- :herb: :purple_heart:
--->
-
-
 <p align="center">
   <img title="|Customized by Nikolay Lobanov|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Nikolay+Lobanov;QA+engineer">
 </p>
@@ -37,15 +30,11 @@
   <code><img width="5%" title="Selenium" src="images/Selenium.svg"></code>
   <code><img width="5%" title="Selenide" src="images/selenide-logo.svg "></code>
   
-  <code><img width="5%" title="Appium" src="images/Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="images/Browserstack.svg"></code>
   <code><img width="5%" title="Gradle" src="images/Gradle.svg"></code>
   <code><img width="5%" title="JUnit5" src="images/junit5.svg"></code>
   <code><img width="5%" title="Jenkins" src="images/Jenkins.svg"></code> 
   
-  <code><img width="5%" title="Selenoid" src="images/selenoid.svg"></code>
-  <code><img width="5%" title="Docker" src="images/Docker.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="images/allureTestOPS.svg"></code>
   <code><img width="5%" title="Allure Report" src="images/allureReport.svg"></code>
   <code><img width="5%" title="Github" src="images/Github.svg"></code>
  
@@ -53,24 +42,20 @@
 
 ### :open_umbrella: When I'm not testing you can find me:
 
-<<<<<<< HEAD
-   ♔  <code><strong>*Playing chess*</strong></code>
-=======
-:mushroom:  <code><strong>*Playing chess*</strong></code>
->>>>>>> parent of 5ac0d25 (edit)
+ ♔  <code><strong>*Playing chess*</strong></code>
 
-﹛java﹜  <code><strong>*Writing code*</strong></code>
+:open_book:  <code><strong>*Writing code*</strong></code>
 
- https://.. <code><strong>*Reading something interesting on the Internet*</strong></code> 
+:headphones: <code><strong>*Reading something interesting on the Internet*</strong></code> 
 
 
-[<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/sonmeniya)
-[<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/sonmeniya) 
+[<img title="Github" alt="sonmeniya| Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/sonmeniya)
+[<img title="Telegram" alt="sonmeniya | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/sonmeniya) 
 
 
 <hr>
 <p align="center">
-  <img title="|Customized by daramirra|" src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img title="|Customized by sonmeniya|" src="https://github.com/sonmeniya/sonmeniya/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
